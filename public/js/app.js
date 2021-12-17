@@ -1,6 +1,6 @@
 // const { response } = require("express")
 
-console.log('testing loading of Javascript')
+// console.log('testing loading of Javascript')
 // fetch("http://puzzle.mead.io/puzzle").then((response)=>{
 // response.json().then((data) =>
 // {
