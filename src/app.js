@@ -7,7 +7,8 @@ const chalk = require('chalk')
 const forecast = require('./utils/forecast')
 
 const path = require('path')
-
+//port provided by heroku 
+const port = process.env.PORT || 3000
 
 console.log(__dirname)
 console.log(path.join(__dirname, '../public'))
